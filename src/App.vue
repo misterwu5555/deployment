@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="自动部署" />
+    <HelloWorld msg="git提交数据到github, 然后自动部署到阿里云服务器" />
   </div>
 </template>
 
